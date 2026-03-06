@@ -1,4 +1,3 @@
-# A-Unified-Physics-Informed-Neural-Network-for-Modeling-Coupled-Electro-Elastodynamic-Wave
 Source code to the paper titled "A Unified Physics-Informed Neural Network for Modeling Coupled Electro‑ and Elastodynamic Wave Propagation Using A Three-Stage Optimization Technique" by Suhas Suresh Bharadwaj and Reuben Thomas Thovelil.
 
 # A Unified Physics-Informed Neural Network for Modeling Coupled Electro‑ and Elastodynamic Wave Propagation Using A Three-Stage Optimization Technique
