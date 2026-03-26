@@ -1,0 +1,15 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Research/Data artifacts
+*.log
+*.csv
+/data/raw/
+
+# IDEs
+.vscode/
+.idea/
