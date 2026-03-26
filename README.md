@@ -140,6 +140,9 @@ Potential improvements:
 - **Fourier features**: Replace tanh with periodic activations for oscillatory solutions
 - **Adaptive collocation**: Focus sampling on high-error regions
 
+## How to contribute
+If you find a bug or have an idea for a more efficient loss function, please open an issue! I’m particularly interested in seeing how this performs on different lattice geometries. Check out CONTRIBUTING.md for our workflow.
+
 ## Citation
 
 If you use this code in your research, please cite:
